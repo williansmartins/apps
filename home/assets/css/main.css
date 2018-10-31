@@ -953,7 +953,7 @@ input, select, textarea {
 			position: relative;
 			width: 50%;
 			background: #101010;
-			outline: 0;
+			outline: solid 3px #ababab;
 		}
 
 			#thumbnails article .thumbnail {
